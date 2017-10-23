@@ -1,2 +1,2 @@
 # IOT-DB410c-Python
-Examples made in Python and Qualcomm DragonBoard 410C
+Examples made in Python, Qualcomm DragonBoard 410C and 96Boards starter kit with Linker mezzanine card.
