@@ -1,7 +1,7 @@
 import mraa
 import time
 
-led = mraa.Gpio(23) #D1
+led = mraa.Gpio(25) #D2
 led.dir(mraa.DIR_OUT)
 
 while True:

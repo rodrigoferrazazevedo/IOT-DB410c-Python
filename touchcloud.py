@@ -3,7 +3,7 @@ import mraa
 import time
 
 
-sensor = mraa.Gpio(27) #D3
+sensor = mraa.Gpio(23) #D1
 sensor.dir(mraa.DIR_IN)
 
 
